@@ -1,4 +1,4 @@
-# Rahul Naidu — Personal Claude Code Config
+# Rahul Naidu. Personal Claude Code Config
 
 ## Who I Am
 Solo founder, YC-stage. Primary Claude Code user. Move fast, low-ops.
@@ -15,15 +15,15 @@ Solo founder, YC-stage. Primary Claude Code user. Move fast, low-ops.
 - TypeScript over JavaScript
 - Tailwind for styling
 - Production-ready, not toy examples
-- Optimize output to look immediately polished — design matters
+- Optimize output to look immediately polished. Design matters.
 - Secrets via env vars only. Never hardcoded.
-- Idempotent automation only — safe to re-run.
+- Idempotent automation only. Safe to re-run.
 
-## Mental Model — How I Build (gstack-influenced)
+## Mental Model. How I Build (gstack-influenced)
 Think → Plan → Build → Review → Test → Ship → Reflect.
 Don't skip steps on real features. Skip them on throwaways.
 
-## What I Actually Use Claude For (PM + founder workflows)
+## What I Actually Use Claude For (PM and founder workflows)
 - Product strategy critiques (challenge the framing, don't validate)
 - Customer interview synthesis (specific templates, not vague summaries)
 - Release notes from commits / PRs
